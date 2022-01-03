@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  background-color: rgb(23, 14, 100);
+}
+
+h1{
+  font-size: 26px;
+  color: #000000;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+p {
+  font-size: 19px;
+  color: #000000;
+  margin: 1px;
+  padding: 5px;
+}
+
+.ultimoResultado {
+  color: white;
+  padding: 3px;
+}
+
+.container {
+  background: rgb(7, 193, 218);
+  width: 99%;
+  margin: 30px auto;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.form {
+  font-size: 18px;
+  color: #000000;
+  margin: 1px;
+  padding: 5px;
+}
